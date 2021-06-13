@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "jszip": "^3.6.0",
+    "xml-formatter": "^2.4.0",
+    "xml-js": "^1.6.11"
+  }
+}
